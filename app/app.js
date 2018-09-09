@@ -13,6 +13,7 @@ app.use(require('./routes/descriptions'))
 app.use(express.static('app/public'))
 
 app.locals.siteTitle = 'Game Recommendation at Its Finest';
+app.locals.Games = dataFile.Games;
 
 var server = app.listen(app.get('port'),function(){
     console.log("up and running with");
