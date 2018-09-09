@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head><% include partials/template/head.ejs %></head>
+  <body>
+    <% include partials/template/header.ejs %>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-8 ">
+          <article class="speakerslist <% if (pageID == 'home') { %>jumbotron hidden-xs<% } %>">
+            <div class="container">
+              <div class="row">
+                  <% Games.forEach(function(item) { %>
+                  <div class="col-sm-8">
+                    <h3 class="speakerslist-title"><%= item.title %></h3>
+                    <p class="speakerslist-info">
+                      <a href="/speakers/<%= item.shortname %>"></a>
+                          <%- item.description %>
+                          <%- item.comment %>
+                    </p>
+                  </div>
+                  <%  }); %>
+              </div><!-- row -->
+            </div><!-- container -->
+          </article>
+        </div><!-- primary -->
+      </div>
+    </div><!-- container -->
+    <% include partials/template/jsdefaults.ejs %>
+  </body>
+</html>

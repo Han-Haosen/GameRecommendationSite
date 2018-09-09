@@ -1,0 +1,21 @@
+{
+  "Games": [{
+    "title" : "Total War: Warhammer",
+    "id":1,
+    "comment" : "A great piece of work by Creative Assembly, but the numerous DLCs and of course, long waiting time between turns and battles made the fun die down a bit. 7/10.",
+    "description": "Total War: Warhammer is a turn-based strategy and real-time tactics video game developed by Creative Assembly and published by Sega for Microsoft Windows via the Steam gaming platform. The game was brought to macOS and Linux by Feral Interactive. The game features the gameplay of the Total War series with factions of Games Workshop's Warhammer Fantasy series; it is the first Total War game not to portray a historical setting. It is the 10th title in the Total War series and the first title to be released in the Total War: Warhammer trilogy.",
+    "artwork": []
+  },{
+    "title" : "Total War: Warhammer 2",
+    "id":2,
+    "comment": "Warhammer 2 is truly a masterpiece created by Creative Assembly, which combines old style real-time strategy game with new RPG element perfectly, making both new fans to the series and old fans content. The optimzation also made the gaming experience really seamless. Played 10 hours on that and can't feel it at all. 9.5/10",
+    "description": "Total War: Warhammer II is set in Games Workshop's Warhammer Fantasy fictional universe. The game takes place across five continents—Ulthuan, Naggaroth, The Southlands, Lustria and Nehekhara.[3] The game will center around control of the Great Vortex in Ulthuan. The Vortex campaign features a narrative storyline for each of the five races as they cast rituals to either stabilize or control the Great Vortex.<br/> Total War: Warhammer II features turn-based strategy and real-time tactics gameplay similar to other games in the Total War series.The game's announced races in the campaign include the Lizardmen, High Elves, Dark Elves, Skaven and Tomb Kings. Those who own races from the first game will have the same races unlocked for multiplayer in the second and a grand campaign map spanning the first and second games' campaign maps will be released in a patch after launch. The game's campaign will be more narrative oriented than the sandbox campaign of the first game with each race battling to save or destroy the Great Vortex over Ulthuan." , 
+    "artwork" : []
+  },{
+    "title" : "Total War: Attila",
+    "id":3,
+    "comment": "One of the best historical titles made by Creative Assmebly. It is the most mature product of the entire Total War: Rome family, and also introduced a great amount of in game mechanisms to simulate the downfall of Rome. It is extremely difficult to provide gamers survival experience when all they want is conquer and make their empire bigger, but CA managed to do it using their main campaign. 8/10 ",
+    "description": "Total War: Attila is a strategy video game developed by The Creative Assembly and published by Sega, released on 17 February 2015 for Microsoft Windows, OS X, and Linux. It is the ninth standalone game in the Total War series of video games.The game begins in 395 AD, during what is now called Late Antiquity (the transition period from Classical Rome to the Medieval age in European history). While the title character will be able to become the leader of the Huns, he is not yet in power at the start of the campaign. Due to its setting near the Dark Ages, the game is possibly a spiritual successor to Rome Total War: Barbarian Invasion.",
+    "artwork" : []
+  }]
+}
